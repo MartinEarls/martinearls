@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://martinearls.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinearls&show_icons=true&line_height=33&count_private=true&theme=dark" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinearls&show_icons=true&line_height=33&count_private=true&theme=tokyonight" alt="Martin's GitHub Stats" />
 </a>
 <br>
 <a href="https://martinearls.com">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinearls&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinearls&theme=tokyonight" />
 </a>
 <br>
 <a href="https://martinearls.com">
