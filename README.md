@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://martinearls.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinearls&show_icons=true&line_height=33&count_private=true&theme=dark" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinearls&show_icons=true&line_height=33&count_private=true&theme=gradient" alt="Martin's GitHub Stats" />
 </a>
 
 <a href="https://martinearls.com">
