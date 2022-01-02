@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://hasherezade.net">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinearls&show_icons=true&line_height=33&count_private=true&theme=dark" alt="Martin's GitHub Stats" />
+</a>
