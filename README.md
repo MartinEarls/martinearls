@@ -1,4 +1,4 @@
-<a href="https://martinearls.com">
+<!--<a href="https://martinearls.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinearls&show_icons=true&line_height=33&count_private=true&theme=tokyonight" alt="Martin's GitHub Stats" />
 </a>
 <br>
@@ -12,5 +12,4 @@
 <br>
 <a href="https://twitter.com/malwareyeti">
   <img src="https://img.shields.io/twitter/follow/malwareyeti?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
-</a>
-
+</a>-->
